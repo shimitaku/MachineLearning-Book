@@ -60,4 +60,4 @@
 )にて、疑問点や修正点を管理しています。不明な点などがございましたらご覧ください。
 
 ### 外部リンク
-- 小川雄太郎の[Github](https://github.com/YutaroOgawa)
+- 小川雄太郎の[GitHub](https://github.com/YutaroOgawa)
