@@ -58,3 +58,6 @@
 ### 疑問点・修正点の管理
 本GitHubの[Issues](https://github.com/shimitaku/MachineLearning-Book/issues
 )にて、疑問点や修正点を管理しています。不明な点などがございましたらご覧ください。
+
+### 外部リンク
+- 小川雄太郎の[Github](https://github.com/YutaroOgawa)
